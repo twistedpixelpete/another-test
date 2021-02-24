@@ -1,5 +1,6 @@
 hello world
-i am in class
+i am in class - class is over now
 adding more text
 another bit of text
 testfromhyper
+even more change
